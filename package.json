@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "my-exemple",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://incogi-to.github.io/my-exemple",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /my-exemple/"
+    "build": "parcel build src/*.html --public-url/my-exemple/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/incogi-to/my-exemple.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Nazar Kobernyk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/incogi-to/my-exemple/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
